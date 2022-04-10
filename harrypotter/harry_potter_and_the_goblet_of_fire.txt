@@ -1,0 +1,45 @@
+Igor Karkaroff,Severus Snape,Harry Potter
+Albus Dumbledore,Harry Potter
+George Weasley,Ron Weasley,Barty Crouch Sr.,Albus Dumbledore,Neville Longbottom,Skinny kid,Alastor Moody,Hermione Granger,Harry Potter,Seamus Finnigan,Fleur Delacour,Fred Weasley,Dean Thomas
+Cho Chang,Waitress,Ron Weasley,Hermione Granger,Harry Potter
+George Weasley,Ron Weasley,Barty Crouch Sr.,Hermione Granger,Harry Potter,Ginny Weasley,Fred Weasley,Arthur Weasley
+George Weasley,Amos Diggory,Harry Potter,Fred Weasley,Arthur Weasley
+George Weasley,Cedric Diggory,Ron Weasley,Amos Diggory,Hermione Granger,Harry Potter,Fred Weasley,Arthur Weasley
+George Weasley,Ron Weasley,Hermione Granger,Harry Potter,Fred Weasley
+Ron Weasley,Neville Longbottom,Hermione Granger,Alastor Moody,Seamus Finnigan
+Rita Skeeter,Harry Potter
+Gang thug,Cedric Diggory,Ron Weasley,Draco Malfoy,Minerva McGonagall,Harry Potter,Alastor Moody
+Harry Potter,Alastor Moody
+Peter Pettigrew,Voldemort,Lucius Malfoy,Harry Potter
+Peter Pettigrew,Voldemort,Harry Potter,Cedric Diggory
+Igor Karkaroff,Barty Crouch Sr.,Albus Dumbledore,Barty Crouch Jr.,Harry Potter,Alastor Moody
+Cornelius Fudge,Albus Dumbledore,Harry Potter,Alastor Moody
+Alastor Moody,Albus Dumbledore,Harry Potter,Cedric Diggory
+Cho Chang,Harry Potter
+Ron Weasley,Hermione Granger,Rubeus Hagrid,Harry Potter
+Padma Patil,Gang thug,Ron Weasley,Parvati Patil,Hermione Granger,Harry Potter
+Albus Dumbledore,Harry Potter
+Ron Weasley,Hermione Granger,Viktor Krum,Harry Potter,Fleur Delacour
+James Potter,Voldemort,Lily Potter,Cedric Diggory
+Amos Diggory,Cornelius Fudge,Albus Dumbledore,Harry Potter
+George Weasley,Ron Weasley,Minerva McGonagall,Harry Potter,Fred Weasley
+Rita Skeeter,Ron Weasley,Sirius Black,Harry Potter
+Peter Pettigrew,Voldemort,Centaur,Barty Crouch Jr.
+Barty Crouch Sr.,Albus Dumbledore,Hermione Granger,Harry Potter,Viktor Krum,Rita Skeeter
+Ron Weasley,Nigel Wolpert,Hermione Granger,Harry Potter,Ginny Weasley
+George Weasley,Ron Weasley,Hermione Granger,Harry Potter,Seamus Finnigan,Fred Weasley
+Igor Karkaroff,George Weasley,Filius Flitwick,Gang thug,Ron Weasley,Barty Crouch Sr.,Rubeus Hagrid,Albus Dumbledore,Olympe Maxime,Alastor Moody,Hermione Granger,Harry Potter,Seamus Finnigan,Fred Weasley
+Ron Weasley,Barty Crouch Sr.,Rubeus Hagrid,Harry Potter,Alastor Moody
+Padma Patil,Ron Weasley,Parvati Patil,Hermione Granger,Minerva McGonagall,Harry Potter
+Voldemort,Neville Longbottom
+Igor Karkaroff,Barty Crouch Sr.,Albus Dumbledore,Olympe Maxime,Harry Potter,Alastor Moody
+Rubeus Hagrid,Hermione Granger,Albus Dumbledore,Gang thug
+Hermione Granger,Neville Longbottom,Harry Potter,Alastor Moody
+Moaning Myrtle,Harry Potter,Skinny kid
+Hermione Granger,Harry Potter,Cedric Diggory
+George Weasley,Cornelius Fudge,Ron Weasley,Draco Malfoy,Fred Weasley,Lucius Malfoy,Arthur Weasley
+Severus Snape,Albus Dumbledore,Minerva McGonagall,Alastor Moody
+Ron Weasley,Harry Potter
+Severus Snape,Albus Dumbledore,Barty Crouch Jr.,Harry Potter,Alastor Moody
+Rubeus Hagrid,Harry Potter,Olympe Maxime
+Hermione Granger,Neville Longbottom,Harry Potter

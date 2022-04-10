@@ -1,0 +1,27 @@
+Kingsley Shacklebolt,Remus Lupin,Luna Lovegood,Elphias Doge,Muriel,Xenophilius Lovegood,Hermione Granger,Harry Potter,Woman
+Hermione Granger,Scabior,Harry Potter
+Ron Weasley,Hermione Granger,Harry Potter,Alastor Moody,Lily Potter,Woman
+Luna Lovegood,Dobby,Harry Potter
+Bathilda Bagshot,Hermione Granger,Harry Potter
+Hermione Granger,Harry Potter
+Kingsley Shacklebolt,George Weasley,Remus Lupin,Mundungus Fletcher,Dudley Dursley,Ron Weasley,Rubeus Hagrid,Nymphadora Tonks,Bill Weasley,Hermione Granger,Harry Potter,Alastor Moody,Fleur Delacour,Vernon Dursley,Petunia Dursley,Fred Weasley
+Mundungus Fletcher,Kreacher,Ron Weasley,Hermione Granger,Harry Potter,Dobby
+Hermione Granger,Harry Potter
+Cormac McLaggen,Pius Thicknesse,Kreacher,Ron Weasley,Neville Longbottom,Hermione Granger,Harry Potter
+Ron Weasley,Xenophilius Lovegood,Hermione Granger,Harry Potter
+Fenrir Greyback,Scabior,Ron Weasley,Hermione Granger,Trolley witch,Harry Potter
+Luna Lovegood,Scabior,Ron Weasley,Draco Malfoy,Bellatrix Lestrange,Hermione Granger,Trolley witch,Harry Potter,Peter Pettigrew,Garrick Ollivander,Lucius Malfoy
+Ron Weasley,Hermione Granger,Harry Potter
+Scabior,Ron Weasley,Hermione Granger,Harry Potter,Voldemort,Gellert Grindelwald
+Ron Weasley,Xenophilius Lovegood,Hermione Granger,Harry Potter
+Pius Thicknesse,Corban Yaxley,Guard,Ron Weasley,Mary Cattermole,Goblin,Man,Percy Weasley,Dolores Umbridge,Hermione Granger,Harry Potter,Woman,Arthur Weasley
+Hermione Granger,Harry Potter
+Kingsley Shacklebolt,George Weasley,Remus Lupin,Molly Weasley,Ron Weasley,Rubeus Hagrid,Nymphadora Tonks,Bill Weasley,Hermione Granger,Harry Potter,Ginny Weasley,Voldemort,Fred Weasley,Garrick Ollivander,Arthur Weasley
+Ron Weasley,Mykew Gregorovitch,Hermione Granger,Harry Potter,Voldemort
+George Weasley,Rufus Scrimgeour,Ron Weasley,Hermione Granger,Harry Potter,Ginny Weasley,Fred Weasley,Arthur Weasley
+Ron Weasley,Hermione Granger,Harry Potter
+Ron Weasley,Mrs. Granger,Hermione Granger,Mr. Granger,Arthur Weasley
+Dobby,Luna Lovegood,Ron Weasley,Bellatrix Lestrange,Harry Potter,Peter Pettigrew,Griphook
+Ghosts,Rubeus Hagrid,Harry Potter,Alastor Moody,Voldemort
+Ron Weasley,Voldemort,Hermione Granger,Harry Potter
+Charity Burbage,Pius Thicknesse,Ghosts,Corban Yaxley,Severus Snape,Bellatrix Lestrange,Peter Pettigrew,Voldemort,Lucius Malfoy,Narcissa Malfoy

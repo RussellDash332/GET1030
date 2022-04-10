@@ -1,0 +1,37 @@
+Ron Weasley,Ginny Weasley,Voldemort,Lucius Malfoy,Narcissa Malfoy
+Ron Weasley,Voldemort,Hermione Granger,Harry Potter
+Ron Weasley,Hermione Granger,Harry Potter
+Petunia Dursley,Albus Dumbledore,Lily Potter,Severus Snape
+Ron Weasley,Severus Snape,Hermione Granger,Harry Potter,Voldemort
+Professors,Filius Flitwick,Pomona Sprout,Ron Weasley,Neville Longbottom,Hermione Granger,Harry Potter,Seamus Finnigan
+Molly Weasley,Ron Weasley,Bellatrix Lestrange,Hermione Granger,Harry Potter
+Ron Weasley,Hermione Granger,Harry Potter,Aberforth Dumbledore
+Luna Lovegood,Ron Weasley,Bellatrix Lestrange,Bill Weasley,Hermione Granger,Harry Potter,Fleur Delacour,Garrick Ollivander
+Ron Weasley,Hermione Granger
+Nymphadora Tonks,Kingsley Shacklebolt,Remus Lupin,Dean Thomas
+Luna Lovegood,Pius Thicknesse,Harry Potter,Voldemort,Fred Weasley
+Neville Longbottom,Harry Potter,Seamus Finnigan
+Helena Ravenclaw,Harry Potter
+Ron Weasley,Draco Malfoy,Neville Longbottom,Bellatrix Lestrange,Harry Potter,Voldemort
+Hermione Granger,Harry Potter,Albus Potter
+Ron Weasley,Harry Potter
+Ron Weasley,Hermione Granger,Harry Potter,Ghosts
+Griphook,Ron Weasley,Hermione Granger,Harry Potter
+Cho Chang,Luna Lovegood,Ron Weasley,Nigel Wolpert,Neville Longbottom,Alecto Carrow,Hermione Granger,Harry Potter,Ginny Weasley,Dean Thomas,Seamus Finnigan
+Luna Lovegood,Severus Snape,Neville Longbottom,Sybill Trelawney,Harry Potter,Voldemort,Lucius Malfoy
+Sorting Hat,Voldemort,Arthur Weasley,Ginny Weasley
+Voldemort,Narcissa Malfoy,Bellatrix Lestrange
+Albus Dumbledore,Harry Potter
+Gang thug,Ginny Weasley
+Oliver Wood,Ron Weasley,Hermione Granger,Harry Potter,Ginny Weasley
+Griphook,Ron Weasley,Hermione Granger,Harry Potter
+Luna Lovegood,Harry Potter
+Bogrod,Ron Weasley,Merpeople,Bellatrix Lestrange,Hermione Granger,Harry Potter,Griphook
+Ron Weasley,Sybill Trelawney,Hermione Granger,Harry Potter,Voldemort
+Ron Weasley,Neville Longbottom,Pansy Parkinson,Hermione Granger,Harry Potter,Ginny Weasley
+Seamus Finnigan,Neville Longbottom,Argus Filch,Ginny Weasley
+Ron Weasley,Draco Malfoy,Gregory Goyle,Hermione Granger,Harry Potter,Voldemort
+Voldemort,Harry Potter,Corban Yaxley
+Argus Filch,Severus Snape,Pansy Parkinson,Harry Potter,Voldemort
+Luna Lovegood,Bill Weasley,Harry Potter
+Remus Lupin,Sirius Black,James Potter,Harry Potter,Lily Potter
