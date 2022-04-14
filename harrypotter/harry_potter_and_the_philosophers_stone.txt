@@ -1,48 +1,48 @@
-Ron Weasley,Hermione Granger,Harry Potter
-Garrick Ollivander,Rubeus Hagrid,Harry Potter
-George Weasley,Ron Weasley,Hermione Granger,Harry Potter,Nearly Headless Nick,Fred Weasley
-Boy 2,Class,Boy,Ron Weasley,Draco Malfoy,Neville Longbottom,Rolanda Hooch,Hermione Granger,Minerva McGonagall,Harry Potter,Girl,Students
-Quirinus Quirrell,Minerva McGonagall
-Ron Weasley,Draco Malfoy,Rubeus Hagrid,Neville Longbottom,Minerva McGonagall,Harry Potter
-George Weasley,Molly Weasley,Rubeus Hagrid,Man,Old man,Harry Potter,Ginny Weasley,Fred Weasley
-Ron Weasley,Hermione Granger,Harry Potter
-Ron Weasley,Hermione Granger,Harry Potter
-Ron Weasley,Hermione Granger,Harry Potter
-Ron Weasley,Severus Snape,Rubeus Hagrid,Neville Longbottom,Hermione Granger,Minerva McGonagall,Harry Potter
-Woman,Ron Weasley,Hermione Granger,Harry Potter
-Ron Weasley,Harry Potter
-Oliver Wood,Harry Potter
-All,Filius Flitwick,Ron Weasley,Draco Malfoy,Hermione Granger,Harry Potter,Seamus Finnigan
-Hermione Granger,Rubeus Hagrid,Harry Potter
-Ron Weasley,Minerva McGonagall,Harry Potter
-Severus Snape,Harry Potter
-Ron Weasley,Neville Longbottom,Hermione Granger,Harry Potter,Seamus Finnigan
-Ron Weasley,Hermione Granger,Rubeus Hagrid,Harry Potter
-Ron Weasley,Hermione Granger,Man in a painting,Harry Potter
-George Weasley,Ron Weasley,Albus Dumbledore,Sorting Hat,Hermione Granger,Minerva McGonagall,Harry Potter,Fred Weasley
-Ron Weasley,Hermione Granger,Albus Dumbledore,Harry Potter
-Ron Weasley,Hermione Granger,Minerva McGonagall,Harry Potter,Quirinus Quirrell
-Boy,Ron Weasley,Albus Dumbledore,Neville Longbottom,Percy Weasley,Harry Potter,Girl,Quirinus Quirrell
-Ron Weasley,Neville Longbottom,Shrunken head,Percy Weasley,Girl,Harry Potter,The Fat Lady
-Boy,Ron Weasley,Albus Dumbledore,Percy Weasley,Hermione Granger,Minerva McGonagall,Harry Potter,Seamus Finnigan,Nearly Headless Nick,Girl,Bloody Baron
+Harry Potter,Rubeus Hagrid
+Quirinus Quirrell,Harry Potter,Voldemort
 Percy Weasley,Girl
-Dudley Dursley,Man,Student,Harry Potter,Vernon Dursley,Petunia Dursley
-Boy,Rubeus Hagrid,Goblin,Man,Harry Potter,Tom,Quirinus Quirrell
-Argus Filch,Quirinus Quirrell,Severus Snape,Harry Potter
-Rubeus Hagrid,Albus Dumbledore,Minerva McGonagall
-Ron Weasley,Hermione Granger,Harry Potter
-Dudley Dursley,Vernon Dursley,Petunia Dursley,Harry Potter
-Lee Jordan,Rubeus Hagrid,Albus Dumbledore,Hermione Granger,Seamus Finnigan
-Dudley Dursley,Rubeus Hagrid,Harry Potter,Vernon Dursley,Petunia Dursley
-Merpeople,Griphook,Rubeus Hagrid,Harry Potter
-Ron Weasley,George Weasley,Albus Dumbledore,Harry Potter
-Rubeus Hagrid,Harry Potter
-Quirinus Quirrell,Voldemort,Harry Potter
-Ron Weasley,Neville Longbottom,Hermione Granger,Harry Potter,Seamus Finnigan
-Ron Weasley,Draco Malfoy,Rubeus Hagrid,Hermione Granger,Minerva McGonagall,Harry Potter
-Argus Filch,Firenze,Ron Weasley,Draco Malfoy,Rubeus Hagrid,Hermione Granger,Harry Potter
-All,Argus Filch,Ron Weasley,Hermione Granger,Harry Potter
-Lee Jordan,Ron Weasley,Draco Malfoy,Rubeus Hagrid,Severus Snape,Man,Rolanda Hooch,Hermione Granger,Harry Potter,Crowd
-Quirinus Quirrell,Voldemort,Harry Potter
-Lee Jordan,Gryffindors,Oliver Wood,Ron Weasley,Neville Longbottom,Rubeus Hagrid,Rolanda Hooch,Harry Potter,Seamus Finnigan,Marcus Flint
-Ron Weasley,Hermione Granger,Severus Snape,Harry Potter
+Bloody Baron,Minerva McGonagall,Percy Weasley,Harry Potter,Ron Weasley,Albus Dumbledore,Seamus Finnigan,Nearly Headless Nick,Boy,Girl,Hermione Granger
+Percy Weasley,Harry Potter,Ron Weasley,Neville Longbottom,The Fat Lady,Girl,Shrunken head
+Ron Weasley,Hermione Granger,Harry Potter,Albus Dumbledore
+Garrick Ollivander,Harry Potter,Rubeus Hagrid
+Minerva McGonagall,Sorting Hat,Harry Potter,Albus Dumbledore,George Weasley,Ron Weasley,Fred Weasley,Hermione Granger
+Quirinus Quirrell,Minerva McGonagall
+Nearly Headless Nick,Harry Potter,Ron Weasley,George Weasley,Fred Weasley,Hermione Granger
+Students,Class,Boy 2,Minerva McGonagall,Harry Potter,Ron Weasley,Neville Longbottom,Rolanda Hooch,Draco Malfoy,Boy,Girl,Hermione Granger
+Marcus Flint,Harry Potter,Ron Weasley,Neville Longbottom,Seamus Finnigan,Rolanda Hooch,Rubeus Hagrid,Gryffindors,Oliver Wood,Lee Jordan
+Severus Snape,Hermione Granger,Harry Potter,Ron Weasley
+Severus Snape,Quirinus Quirrell,Argus Filch,Harry Potter
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Albus Dumbledore,Seamus Finnigan,Rubeus Hagrid,Lee Jordan
+Firenze,Harry Potter,Ron Weasley,Argus Filch,Rubeus Hagrid,Draco Malfoy,Hermione Granger
+Minerva McGonagall,Rubeus Hagrid,Albus Dumbledore
+Woman,Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Rubeus Hagrid
+Minerva McGonagall,Severus Snape,Harry Potter,Ron Weasley,Neville Longbottom,Rubeus Hagrid,Hermione Granger
+Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Minerva McGonagall,Harry Potter,Ron Weasley,Rubeus Hagrid,Draco Malfoy,Hermione Granger
+Harry Potter,Ron Weasley,Neville Longbottom,Seamus Finnigan,Hermione Granger
+Man in a painting,Hermione Granger,Harry Potter,Ron Weasley
+Ron Weasley,Hermione Granger,Harry Potter,Rubeus Hagrid
+Minerva McGonagall,Quirinus Quirrell,Harry Potter,Ron Weasley,Hermione Granger
+Percy Weasley,Quirinus Quirrell,Harry Potter,Ron Weasley,Albus Dumbledore,Neville Longbottom,Boy,Girl
+Hermione Granger,Harry Potter,Ron Weasley
+Petunia Dursley,Vernon Dursley,Dudley Dursley,Harry Potter
+Dudley Dursley,Vernon Dursley,Harry Potter,Petunia Dursley,Rubeus Hagrid
+Old man,Man,Molly Weasley,Harry Potter,Ginny Weasley,George Weasley,Rubeus Hagrid,Fred Weasley
+Man,Lee Jordan,Severus Snape,Harry Potter,Ron Weasley,Crowd,Rolanda Hooch,Rubeus Hagrid,Draco Malfoy,Hermione Granger
+Dudley Dursley,Vernon Dursley,Student,Man,Harry Potter,Petunia Dursley
+Minerva McGonagall,Harry Potter,Ron Weasley,Neville Longbottom,Rubeus Hagrid,Draco Malfoy
+Harry Potter,Ron Weasley,All,Argus Filch,Hermione Granger
+Quirinus Quirrell,Harry Potter,Voldemort
+George Weasley,Ron Weasley,Harry Potter,Albus Dumbledore
+Merpeople,Griphook,Harry Potter,Rubeus Hagrid
+Harry Potter,Ron Weasley,All,Filius Flitwick,Seamus Finnigan,Draco Malfoy,Hermione Granger
+Harry Potter,Ron Weasley
+Oliver Wood,Harry Potter
+Ron Weasley,Harry Potter,Minerva McGonagall
+Harry Potter,Ron Weasley,Neville Longbottom,Seamus Finnigan,Hermione Granger
+Severus Snape,Harry Potter
+Hermione Granger,Harry Potter,Ron Weasley
+Man,Goblin,Quirinus Quirrell,Harry Potter,Boy,Rubeus Hagrid,Tom

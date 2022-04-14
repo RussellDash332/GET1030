@@ -1,45 +1,45 @@
-Igor Karkaroff,Severus Snape,Harry Potter
-Albus Dumbledore,Harry Potter
-George Weasley,Ron Weasley,Barty Crouch Sr.,Albus Dumbledore,Neville Longbottom,Skinny kid,Alastor Moody,Hermione Granger,Harry Potter,Seamus Finnigan,Fleur Delacour,Fred Weasley,Dean Thomas
-Cho Chang,Waitress,Ron Weasley,Hermione Granger,Harry Potter
-George Weasley,Ron Weasley,Barty Crouch Sr.,Hermione Granger,Harry Potter,Ginny Weasley,Fred Weasley,Arthur Weasley
-George Weasley,Amos Diggory,Harry Potter,Fred Weasley,Arthur Weasley
-George Weasley,Cedric Diggory,Ron Weasley,Amos Diggory,Hermione Granger,Harry Potter,Fred Weasley,Arthur Weasley
-George Weasley,Ron Weasley,Hermione Granger,Harry Potter,Fred Weasley
-Ron Weasley,Neville Longbottom,Hermione Granger,Alastor Moody,Seamus Finnigan
-Rita Skeeter,Harry Potter
-Gang thug,Cedric Diggory,Ron Weasley,Draco Malfoy,Minerva McGonagall,Harry Potter,Alastor Moody
-Harry Potter,Alastor Moody
-Peter Pettigrew,Voldemort,Lucius Malfoy,Harry Potter
-Peter Pettigrew,Voldemort,Harry Potter,Cedric Diggory
-Igor Karkaroff,Barty Crouch Sr.,Albus Dumbledore,Barty Crouch Jr.,Harry Potter,Alastor Moody
-Cornelius Fudge,Albus Dumbledore,Harry Potter,Alastor Moody
-Alastor Moody,Albus Dumbledore,Harry Potter,Cedric Diggory
+Voldemort,Barty Crouch Jr.,Centaur,Peter Pettigrew
+Harry Potter,Albus Dumbledore
+Severus Snape,Igor Karkaroff,Harry Potter
+Barty Crouch Sr.,Alastor Moody,Harry Potter,Ron Weasley,Rubeus Hagrid
+Barty Crouch Jr.,Severus Snape,Alastor Moody,Harry Potter,Albus Dumbledore
+Arthur Weasley,Amos Diggory,Harry Potter,Ron Weasley,George Weasley,Fred Weasley,Cedric Diggory,Hermione Granger
+Amos Diggory,Arthur Weasley,Harry Potter,George Weasley,Fred Weasley
+Cedric Diggory,Voldemort,Harry Potter,Peter Pettigrew
+Harry Potter,Albus Dumbledore
+Viktor Krum,Fleur Delacour,Harry Potter,Ron Weasley,Hermione Granger
+Barty Crouch Sr.,Igor Karkaroff,Gang thug,Alastor Moody,Harry Potter,Albus Dumbledore,George Weasley,Ron Weasley,Rubeus Hagrid,Filius Flitwick,Seamus Finnigan,Fred Weasley,Olympe Maxime,Hermione Granger
+Neville Longbottom,Harry Potter,Hermione Granger
+Olympe Maxime,Harry Potter,Rubeus Hagrid
+Sirius Black,Rita Skeeter,Harry Potter,Ron Weasley
+Waitress,Cho Chang,Harry Potter,Ron Weasley,Hermione Granger
+Barty Crouch Sr.,Arthur Weasley,Ginny Weasley,Ron Weasley,George Weasley,Harry Potter,Fred Weasley,Hermione Granger
+Amos Diggory,Cornelius Fudge,Harry Potter,Albus Dumbledore
+James Potter,Lily Potter,Voldemort,Cedric Diggory
+Alastor Moody,Ron Weasley,Neville Longbottom,Seamus Finnigan,Hermione Granger
+Harry Potter,Ron Weasley,George Weasley,Fred Weasley,Hermione Granger
+Minerva McGonagall,Harry Potter,Ron Weasley,George Weasley,Fred Weasley
+Parvati Patil,Gang thug,Harry Potter,Ron Weasley,Padma Patil,Hermione Granger
 Cho Chang,Harry Potter
-Ron Weasley,Hermione Granger,Rubeus Hagrid,Harry Potter
-Padma Patil,Gang thug,Ron Weasley,Parvati Patil,Hermione Granger,Harry Potter
-Albus Dumbledore,Harry Potter
-Ron Weasley,Hermione Granger,Viktor Krum,Harry Potter,Fleur Delacour
-James Potter,Voldemort,Lily Potter,Cedric Diggory
-Amos Diggory,Cornelius Fudge,Albus Dumbledore,Harry Potter
-George Weasley,Ron Weasley,Minerva McGonagall,Harry Potter,Fred Weasley
-Rita Skeeter,Ron Weasley,Sirius Black,Harry Potter
-Peter Pettigrew,Voldemort,Centaur,Barty Crouch Jr.
-Barty Crouch Sr.,Albus Dumbledore,Hermione Granger,Harry Potter,Viktor Krum,Rita Skeeter
-Ron Weasley,Nigel Wolpert,Hermione Granger,Harry Potter,Ginny Weasley
-George Weasley,Ron Weasley,Hermione Granger,Harry Potter,Seamus Finnigan,Fred Weasley
-Igor Karkaroff,George Weasley,Filius Flitwick,Gang thug,Ron Weasley,Barty Crouch Sr.,Rubeus Hagrid,Albus Dumbledore,Olympe Maxime,Alastor Moody,Hermione Granger,Harry Potter,Seamus Finnigan,Fred Weasley
-Ron Weasley,Barty Crouch Sr.,Rubeus Hagrid,Harry Potter,Alastor Moody
-Padma Patil,Ron Weasley,Parvati Patil,Hermione Granger,Minerva McGonagall,Harry Potter
-Voldemort,Neville Longbottom
-Igor Karkaroff,Barty Crouch Sr.,Albus Dumbledore,Olympe Maxime,Harry Potter,Alastor Moody
-Rubeus Hagrid,Hermione Granger,Albus Dumbledore,Gang thug
-Hermione Granger,Neville Longbottom,Harry Potter,Alastor Moody
+Ron Weasley,Hermione Granger,Harry Potter,Rubeus Hagrid
+Harry Potter,Ron Weasley
+Minerva McGonagall,Severus Snape,Alastor Moody,Albus Dumbledore
+Barty Crouch Sr.,Igor Karkaroff,Alastor Moody,Harry Potter,Albus Dumbledore,Olympe Maxime
+Rubeus Hagrid,Gang thug,Hermione Granger,Albus Dumbledore
+Rita Skeeter,Harry Potter
+Neville Longbottom,Voldemort
+Parvati Patil,Minerva McGonagall,Harry Potter,Ron Weasley,Padma Patil,Hermione Granger
+Barty Crouch Sr.,Rita Skeeter,Viktor Krum,Harry Potter,Albus Dumbledore,Hermione Granger
+Harry Potter,Ron Weasley,George Weasley,Seamus Finnigan,Fred Weasley,Hermione Granger
+Nigel Wolpert,Ginny Weasley,Harry Potter,Ron Weasley,Hermione Granger
+Arthur Weasley,Cornelius Fudge,Ron Weasley,George Weasley,Fred Weasley,Draco Malfoy,Lucius Malfoy
+Barty Crouch Sr.,Alastor Moody,Fleur Delacour,Harry Potter,Ron Weasley,George Weasley,Albus Dumbledore,Neville Longbottom,Skinny kid,Seamus Finnigan,Fred Weasley,Dean Thomas,Hermione Granger
+Barty Crouch Sr.,Igor Karkaroff,Barty Crouch Jr.,Alastor Moody,Harry Potter,Albus Dumbledore
+Alastor Moody,Cornelius Fudge,Harry Potter,Albus Dumbledore
+Lucius Malfoy,Voldemort,Harry Potter,Peter Pettigrew
+Minerva McGonagall,Gang thug,Alastor Moody,Harry Potter,Ron Weasley,Draco Malfoy,Cedric Diggory
+Alastor Moody,Harry Potter
 Moaning Myrtle,Harry Potter,Skinny kid
-Hermione Granger,Harry Potter,Cedric Diggory
-George Weasley,Cornelius Fudge,Ron Weasley,Draco Malfoy,Fred Weasley,Lucius Malfoy,Arthur Weasley
-Severus Snape,Albus Dumbledore,Minerva McGonagall,Alastor Moody
-Ron Weasley,Harry Potter
-Severus Snape,Albus Dumbledore,Barty Crouch Jr.,Harry Potter,Alastor Moody
-Rubeus Hagrid,Harry Potter,Olympe Maxime
-Hermione Granger,Neville Longbottom,Harry Potter
+Cedric Diggory,Harry Potter,Hermione Granger
+Neville Longbottom,Alastor Moody,Harry Potter,Hermione Granger
+Alastor Moody,Cedric Diggory,Harry Potter,Albus Dumbledore

@@ -1,38 +1,38 @@
-Albus Dumbledore,Dolores Umbridge
-Dean Thomas,Harry Potter,Seamus Finnigan
-Kingsley Shacklebolt,Remus Lupin,Nymphadora Tonks,Harry Potter,Alastor Moody,Vernon Dursley
-Harry Potter,Dolores Umbridge
-Ron Weasley,Hermione Granger,Harry Potter,Dolores Umbridge
-Kingsley Shacklebolt,Remus Lupin,Walburga Black,Molly Weasley,Sirius Black,Harry Potter,Alastor Moody
-Luna Lovegood,Ron Weasley,Hermione Granger,Harry Potter,Nearly Headless Nick
-Sybill Trelawney,Albus Dumbledore,Harry Potter
-Cornelius Fudge,Susan Bones,Arabella Figg,Albus Dumbledore,Dolores Umbridge,Harry Potter
-Remus Lupin,Sirius Black,Neville Longbottom,Harry Potter,Lucius Malfoy
-Voldemort,Harry Potter,Bellatrix Lestrange
-Cornelius Fudge,Albus Dumbledore,Dolores Umbridge,Minerva McGonagall,Harry Potter
-Ron Weasley,Hermione Granger,Harry Potter
-Sybill Trelawney,Albus Dumbledore,Dolores Umbridge
-Remus Lupin,Severus Snape,Sirius Black,James Potter,Harry Potter,Lily Potter
-Howler,Dudley Dursley,Arabella Figg,Harry Potter,Lily Potter,Voldemort
-Vernon Dursley,Petunia Dursley,Harry Potter
-Griselda Marchbanks,George Weasley,Argus Filch,Kreacher,Ron Weasley,Sirius Black,Dolores Umbridge,Hermione Granger,Harry Potter,Ginny Weasley,Voldemort,Fred Weasley
-Angelina Johnson,Ron Weasley,Dolores Umbridge,Hermione Granger,Minerva McGonagall,Harry Potter
-Ron Weasley,Hermione Granger,Harry Potter
-Sybill Trelawney,Harry Potter,Dolores Umbridge
-Luna Lovegood,Ron Weasley,Neville Longbottom,Goblin,Bellatrix Lestrange,Hermione Granger,Harry Potter,Ginny Weasley,Ghosts,Lucius Malfoy
-Bane,Grawp,Ron Weasley,Rubeus Hagrid,Hermione Granger,Harry Potter
-Angelina Johnson,Lee Jordan,Ron Weasley,Draco Malfoy,Dolores Umbridge,Rolanda Hooch,Hermione Granger,Minerva McGonagall,Harry Potter,Students,Dobby
-Luna Lovegood,Grawp,Ghost,Ron Weasley,Draco Malfoy,Neville Longbottom,Dolores Umbridge,Magorian,Hermione Granger,Harry Potter
-Hermione Granger,Severus Snape,Harry Potter,Dolores Umbridge
-George Weasley,Cornelius Fudge,Kreacher,Sirius Black,Harry Potter,Fred Weasley,Lucius Malfoy,Arthur Weasley
-Ron Weasley,Luna Lovegood,Hermione Granger,Harry Potter
-Angelina Johnson,Ron Weasley,Hermione Granger,Minerva McGonagall,Harry Potter
-Hermione Granger,Harry Potter
-Angelina Johnson,Lee Jordan,George Weasley,Cho Chang,Zacharias Smith,Susan Bones,Ron Weasley,Lavender Brown,Neville Longbottom,Ernest Macmillan,Hermione Granger,Michael Corner,Harry Potter,Ginny Weasley,Justin Finch-Fletchley,Fred Weasley
-Remus Lupin,Molly Weasley,Ron Weasley,Sirius Black,Hermione Granger,Harry Potter,Arthur Weasley
-Ron Weasley,Neville Longbottom,Rubeus Hagrid,Harry Potter,Zacharias Smith
-Cornelius Fudge,Albus Dumbledore,Percy Weasley,Harry Potter,Voldemort
-Arthur Weasley,Perkins,Harry Potter,Goblin
+Hermione Granger,Harry Potter,Ron Weasley
+Dolores Umbridge,Albus Dumbledore
+Dean Thomas,Seamus Finnigan,Harry Potter
+Goblin,Bellatrix Lestrange,Ginny Weasley,Harry Potter,Ron Weasley,Neville Longbottom,Luna Lovegood,Lucius Malfoy,Ghosts,Hermione Granger
+Bane,Harry Potter,Ron Weasley,Grawp,Rubeus Hagrid,Hermione Granger
+Petunia Dursley,Vernon Dursley,Harry Potter
+Dudley Dursley,Lily Potter,Harry Potter,Howler,Voldemort,Arabella Figg
+Percy Weasley,Cornelius Fudge,Harry Potter,Albus Dumbledore,Voldemort
+Minerva McGonagall,Harry Potter,Ron Weasley,Angelina Johnson,Hermione Granger
+Lavender Brown,Michael Corner,Lee Jordan,Zacharias Smith,Ginny Weasley,Ron Weasley,George Weasley,Harry Potter,Neville Longbottom,Cho Chang,Susan Bones,Fred Weasley,Ernest Macmillan,Justin Finch-Fletchley,Angelina Johnson,Hermione Granger
+Harry Potter,Hermione Granger
+Minerva McGonagall,Lee Jordan,Dolores Umbridge,Harry Potter,Ron Weasley,Rolanda Hooch,Dobby,Draco Malfoy,Angelina Johnson,Students,Hermione Granger
+Voldemort,Bellatrix Lestrange,Harry Potter
+Remus Lupin,Sirius Black,Harry Potter,Neville Longbottom,Lucius Malfoy
+Dolores Umbridge,Sybill Trelawney,Harry Potter
+Kingsley Shacklebolt,Remus Lupin,Molly Weasley,Sirius Black,Alastor Moody,Harry Potter,Walburga Black
+Griselda Marchbanks,Sirius Black,Dolores Umbridge,Ginny Weasley,Ron Weasley,George Weasley,Harry Potter,Voldemort,Argus Filch,Kreacher,Fred Weasley,Hermione Granger
+Perkins,Arthur Weasley,Goblin,Harry Potter
+Neville Longbottom,Ron Weasley,Harry Potter,Minerva McGonagall
 Arthur Weasley,Severus Snape,Harry Potter
-Dilys Derwent,Albus Dumbledore,Everard,Phineas,Minerva McGonagall,Harry Potter
-Ron Weasley,Neville Longbottom,Minerva McGonagall,Harry Potter
+Minerva McGonagall,Harry Potter,Albus Dumbledore,Phineas,Everard,Dilys Derwent
+Hermione Granger,Harry Potter,Ron Weasley
+Dolores Umbridge,Sybill Trelawney,Albus Dumbledore
+Minerva McGonagall,Dolores Umbridge,Cornelius Fudge,Harry Potter,Albus Dumbledore
+Dolores Umbridge,Cornelius Fudge,Harry Potter,Albus Dumbledore,Susan Bones,Arabella Figg
+Lily Potter,Remus Lupin,Sirius Black,Severus Snape,Harry Potter,James Potter
+Kingsley Shacklebolt,Remus Lupin,Nymphadora Tonks,Vernon Dursley,Alastor Moody,Harry Potter
+Minerva McGonagall,Dolores Umbridge,Harry Potter,Ron Weasley,Angelina Johnson,Hermione Granger
+Harry Potter,Ron Weasley,Luna Lovegood,Nearly Headless Nick,Hermione Granger
+Sybill Trelawney,Harry Potter,Albus Dumbledore
+Harry Potter,Ron Weasley,Neville Longbottom,Rubeus Hagrid,Zacharias Smith
+Luna Lovegood,Hermione Granger,Harry Potter,Ron Weasley
+Arthur Weasley,Remus Lupin,Molly Weasley,Sirius Black,Harry Potter,Ron Weasley,Hermione Granger
+Dolores Umbridge,Harry Potter
+Dolores Umbridge,Hermione Granger,Harry Potter,Ron Weasley
+Arthur Weasley,Sirius Black,Harry Potter,Cornelius Fudge,George Weasley,Kreacher,Fred Weasley,Lucius Malfoy
+Ghost,Magorian,Dolores Umbridge,Harry Potter,Ron Weasley,Neville Longbottom,Luna Lovegood,Grawp,Draco Malfoy,Hermione Granger
+Dolores Umbridge,Severus Snape,Harry Potter,Hermione Granger

@@ -1,37 +1,37 @@
-Ron Weasley,Ginny Weasley,Voldemort,Lucius Malfoy,Narcissa Malfoy
-Ron Weasley,Voldemort,Hermione Granger,Harry Potter
-Ron Weasley,Hermione Granger,Harry Potter
-Petunia Dursley,Albus Dumbledore,Lily Potter,Severus Snape
-Ron Weasley,Severus Snape,Hermione Granger,Harry Potter,Voldemort
-Professors,Filius Flitwick,Pomona Sprout,Ron Weasley,Neville Longbottom,Hermione Granger,Harry Potter,Seamus Finnigan
-Molly Weasley,Ron Weasley,Bellatrix Lestrange,Hermione Granger,Harry Potter
-Ron Weasley,Hermione Granger,Harry Potter,Aberforth Dumbledore
-Luna Lovegood,Ron Weasley,Bellatrix Lestrange,Bill Weasley,Hermione Granger,Harry Potter,Fleur Delacour,Garrick Ollivander
-Ron Weasley,Hermione Granger
-Nymphadora Tonks,Kingsley Shacklebolt,Remus Lupin,Dean Thomas
-Luna Lovegood,Pius Thicknesse,Harry Potter,Voldemort,Fred Weasley
-Neville Longbottom,Harry Potter,Seamus Finnigan
-Helena Ravenclaw,Harry Potter
-Ron Weasley,Draco Malfoy,Neville Longbottom,Bellatrix Lestrange,Harry Potter,Voldemort
-Hermione Granger,Harry Potter,Albus Potter
-Ron Weasley,Harry Potter
-Ron Weasley,Hermione Granger,Harry Potter,Ghosts
-Griphook,Ron Weasley,Hermione Granger,Harry Potter
-Cho Chang,Luna Lovegood,Ron Weasley,Nigel Wolpert,Neville Longbottom,Alecto Carrow,Hermione Granger,Harry Potter,Ginny Weasley,Dean Thomas,Seamus Finnigan
-Luna Lovegood,Severus Snape,Neville Longbottom,Sybill Trelawney,Harry Potter,Voldemort,Lucius Malfoy
-Sorting Hat,Voldemort,Arthur Weasley,Ginny Weasley
-Voldemort,Narcissa Malfoy,Bellatrix Lestrange
-Albus Dumbledore,Harry Potter
+Aberforth Dumbledore,Hermione Granger,Harry Potter,Ron Weasley
+Corban Yaxley,Voldemort,Harry Potter
+Hermione Granger,Griphook,Harry Potter,Ron Weasley
+Ginny Weasley,Harry Potter,Ron Weasley,Oliver Wood,Hermione Granger
 Gang thug,Ginny Weasley
-Oliver Wood,Ron Weasley,Hermione Granger,Harry Potter,Ginny Weasley
-Griphook,Ron Weasley,Hermione Granger,Harry Potter
+Harry Potter,Helena Ravenclaw
+Hermione Granger,Griphook,Harry Potter,Ron Weasley
+Voldemort,Hermione Granger,Harry Potter,Ron Weasley
+Hermione Granger,Harry Potter,Ron Weasley
+Molly Weasley,Bellatrix Lestrange,Harry Potter,Ron Weasley,Hermione Granger
+Fleur Delacour,Bellatrix Lestrange,Harry Potter,Ron Weasley,Bill Weasley,Luna Lovegood,Garrick Ollivander,Hermione Granger
+Harry Potter,Pius Thicknesse,Luna Lovegood,Voldemort,Fred Weasley
+Neville Longbottom,Seamus Finnigan,Harry Potter
+Dean Thomas,Kingsley Shacklebolt,Remus Lupin,Nymphadora Tonks
+Hermione Granger,Ron Weasley
+Severus Snape,Harry Potter,Ron Weasley,Voldemort,Hermione Granger
+Petunia Dursley,Lily Potter,Severus Snape,Albus Dumbledore
+Bill Weasley,Luna Lovegood,Harry Potter
+Ghosts,Hermione Granger,Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley
+Harry Potter,Ron Weasley,Gregory Goyle,Voldemort,Draco Malfoy,Hermione Granger
+Neville Longbottom,Argus Filch,Seamus Finnigan,Ginny Weasley
+Pansy Parkinson,Ginny Weasley,Harry Potter,Neville Longbottom,Ron Weasley,Hermione Granger
+Sybill Trelawney,Harry Potter,Ron Weasley,Voldemort,Hermione Granger
+Voldemort,Bellatrix Lestrange,Narcissa Malfoy
+Harry Potter,Albus Dumbledore
+Arthur Weasley,Voldemort,Ginny Weasley,Sorting Hat
+Severus Snape,Sybill Trelawney,Harry Potter,Neville Longbottom,Luna Lovegood,Voldemort,Lucius Malfoy
+Severus Snape,Pansy Parkinson,Harry Potter,Voldemort,Argus Filch
 Luna Lovegood,Harry Potter
-Bogrod,Ron Weasley,Merpeople,Bellatrix Lestrange,Hermione Granger,Harry Potter,Griphook
-Ron Weasley,Sybill Trelawney,Hermione Granger,Harry Potter,Voldemort
-Ron Weasley,Neville Longbottom,Pansy Parkinson,Hermione Granger,Harry Potter,Ginny Weasley
-Seamus Finnigan,Neville Longbottom,Argus Filch,Ginny Weasley
-Ron Weasley,Draco Malfoy,Gregory Goyle,Hermione Granger,Harry Potter,Voldemort
-Voldemort,Harry Potter,Corban Yaxley
-Argus Filch,Severus Snape,Pansy Parkinson,Harry Potter,Voldemort
-Luna Lovegood,Bill Weasley,Harry Potter
-Remus Lupin,Sirius Black,James Potter,Harry Potter,Lily Potter
+Pomona Sprout,Harry Potter,Ron Weasley,Neville Longbottom,Professors,Filius Flitwick,Seamus Finnigan,Hermione Granger
+Narcissa Malfoy,Ginny Weasley,Ron Weasley,Voldemort,Lucius Malfoy
+Bellatrix Lestrange,Harry Potter,Ron Weasley,Neville Longbottom,Voldemort,Draco Malfoy
+Merpeople,Griphook,Harry Potter,Ron Weasley,Bellatrix Lestrange,Bogrod,Hermione Granger
+Lily Potter,Remus Lupin,Sirius Black,Harry Potter,James Potter
+Albus Potter,Harry Potter,Hermione Granger
+Nigel Wolpert,Ginny Weasley,Harry Potter,Neville Longbottom,Ron Weasley,Cho Chang,Luna Lovegood,Alecto Carrow,Seamus Finnigan,Dean Thomas,Hermione Granger

@@ -1,0 +1,393 @@
+label,degree,weighted_degree,betweenness,normalized_betweenness,eccentricity,closeness,network
+Harry Potter,62,165,919.9997113997114,0.4865149187729833,1,1.0,harry_potter_and_the_order_of_the_phoenix
+Harry Potter,42,108,465.739898989899,0.3960373290730433,2,0.875,harry_potter_and_the_deathly_hallows_part_2
+Harry Potter,49,181,426.907251082251,0.3630163699679005,1,1.0,harry_potter_and_the_philosophers_stone
+Harry Potter,35,138,242.7039085914085,0.3275356391247079,2,0.9069767441860465,harry_potter_and_the_prisoner_of_azkaban
+Harry Potter,48,195,368.7157037407036,0.300992411216901,2,0.9615384615384616,harry_potter_and_the_chamber_of_secrets
+Harry Potter,34,130,192.6944444444445,0.27410305041884,2,0.9047619047619048,harry_potter_and_the_half-blood_prince
+Harry Potter,38,147,215.5957792207792,0.26292168197656,2,0.9318181818181818,harry_potter_and_the_goblet_of_fire
+Hermione Granger,51,120,282.2333287148466,0.1832683952693809,2,0.9180327868852459,harry_potter_and_the_deathly_hallows_part_1
+Harry Potter,51,128,274.3699948208962,0.1781623342992833,2,0.9180327868852459,harry_potter_and_the_deathly_hallows_part_1
+Ron Weasley,42,157,201.6928682428683,0.1646472393819333,2,0.8620689655172413,harry_potter_and_the_chamber_of_secrets
+Ron Weasley,49,111,242.8129990445171,0.1576707786003358,2,0.8888888888888888,harry_potter_and_the_deathly_hallows_part_1
+Hermione Granger,32,127,100.6296661671662,0.1358025184442189,2,0.8478260869565217,harry_potter_and_the_prisoner_of_azkaban
+Ron Weasley,32,123,100.6296661671662,0.1358025184442189,2,0.8478260869565217,harry_potter_and_the_prisoner_of_azkaban
+Ron Weasley,33,101,92.19491341991346,0.1124328212437969,3,0.82,harry_potter_and_the_goblet_of_fire
+Ron Weasley,32,84,130.6476911976912,0.1110949755082408,2,0.7424242424242424,harry_potter_and_the_deathly_hallows_part_2
+Rubeus Hagrid,33,74,126.873088023088,0.1078852789311973,2,0.7538461538461538,harry_potter_and_the_philosophers_stone
+Hermione Granger,31,76,123.1758658008658,0.1047413824837294,2,0.7313432835820896,harry_potter_and_the_deathly_hallows_part_2
+Hermione Granger,28,92,71.09087301587303,0.1011249971776288,2,0.7916666666666666,harry_potter_and_the_half-blood_prince
+Ginny Weasley,19,46,67.20793650793651,0.09560161665424823,3,0.6551724137931034,harry_potter_and_the_half-blood_prince
+Ginny Weasley,19,30,107.8353174603175,0.09169669852067812,3,0.6125,harry_potter_and_the_deathly_hallows_part_2
+Hermione Granger,33,104,112.3157398157398,0.09168631821693045,2,0.746268656716418,harry_potter_and_the_chamber_of_secrets
+Ron Weasley,36,139,102.3739177489177,0.0870526511470389,2,0.7903225806451613,harry_potter_and_the_philosophers_stone
+Cedric Diggory,16,24,68.10541125541125,0.08305537957976983,2,0.6212121212121212,harry_potter_and_the_goblet_of_fire
+Horace Slughorn,23,46,50.95436507936509,0.07248131590236855,2,0.7169811320754716,harry_potter_and_the_half-blood_prince
+Hermione Granger,29,92,58.78214285714285,0.0716855400696864,3,0.7592592592592593,harry_potter_and_the_goblet_of_fire
+Voldemort,20,46,81.96673881673881,0.06969960783736294,3,0.6125,harry_potter_and_the_deathly_hallows_part_2
+Albus Dumbledore,13,31,48.98492063492064,0.069679830206146,2,0.6031746031746031,harry_potter_and_the_half-blood_prince
+Severus Snape,21,36,47.26309523809525,0.06723057644110277,3,0.6785714285714286,harry_potter_and_the_half-blood_prince
+Hermione Granger,41,92,123.0794011544012,0.0650869387384459,2,0.7469879518072289,harry_potter_and_the_order_of_the_phoenix
+Dean Thomas,13,13,74.52857142857141,0.06337463556851311,3,0.5697674418604651,harry_potter_and_the_deathly_hallows_part_2
+Ron Weasley,40,95,110.9294011544012,0.05866176687170872,2,0.7380952380952381,harry_potter_and_the_order_of_the_phoenix
+Ron Weasley,24,84,40.9638888888889,0.05827011221748064,2,0.7307692307692307,harry_potter_and_the_half-blood_prince
+Hermione Granger,31,112,60.56677489177488,0.05150235960184939,2,0.7313432835820896,harry_potter_and_the_philosophers_stone
+Voldemort,27,39,73.72672280472318,0.04787449532774232,2,0.6588235294117647,harry_potter_and_the_deathly_hallows_part_1
+Albus Dumbledore,25,61,31.74729437229438,0.03871621264913949,2,0.7192982456140351,harry_potter_and_the_goblet_of_fire
+Neville Longbottom,20,31,28.55552780552781,0.03853647477129259,2,0.6724137931034483,harry_potter_and_the_prisoner_of_azkaban
+Voldemort,9,13,30.92633477633477,0.03771504241016435,2,0.5616438356164384,harry_potter_and_the_goblet_of_fire
+Severus Snape,13,17,42.93874458874458,0.03651253791559914,3,0.5568181818181818,harry_potter_and_the_deathly_hallows_part_2
+Man,22,27,42.46114718614717,0.03610641767529522,2,0.6447368421052632,harry_potter_and_the_philosophers_stone
+Other,29,58,42.35434010434011,0.03457497151374703,2,0.704225352112676,harry_potter_and_the_chamber_of_secrets
+Dolores Umbridge,29,56,60.6707070707071,0.0320839275889514,2,0.6526315789473685,harry_potter_and_the_order_of_the_phoenix
+Gilderoy Lockhart,26,60,38.26606449106448,0.03123760366617509,2,0.6756756756756757,harry_potter_and_the_chamber_of_secrets
+Luna Lovegood,20,30,36.46832611832611,0.03101048139313445,2,0.6282051282051282,harry_potter_and_the_deathly_hallows_part_2
+Pius Thicknesse,23,27,47.63869496570397,0.03093421751019738,2,0.6292134831460674,harry_potter_and_the_deathly_hallows_part_1
+Remus Lupin,16,40,21.20043290043291,0.02861057071583388,2,0.6290322580645161,harry_potter_and_the_prisoner_of_azkaban
+Barty Crouch Jr.,9,12,22.81626984126985,0.02782471931862177,2,0.5616438356164384,harry_potter_and_the_goblet_of_fire
+George Weasley,25,62,22.32824675324676,0.02722956921127653,3,0.7068965517241379,harry_potter_and_the_goblet_of_fire
+Fred Weasley,25,62,22.32824675324676,0.02722956921127653,3,0.7068965517241379,harry_potter_and_the_goblet_of_fire
+Alastor Moody,23,66,21.71713564213564,0.026484311758702,2,0.6949152542372882,harry_potter_and_the_goblet_of_fire
+Arthur Weasley,26,37,40.40589371980677,0.02623759332454985,2,0.6511627906976745,harry_potter_and_the_deathly_hallows_part_1
+Neville Longbottom,21,38,30.43975468975469,0.02588414514434923,2,0.6363636363636364,harry_potter_and_the_deathly_hallows_part_2
+Albus Dumbledore,14,34,17.51825674325675,0.0236413721231535,2,0.609375,harry_potter_and_the_prisoner_of_azkaban
+Cornelius Fudge,15,29,17.40205627705627,0.02348455637929322,2,0.6190476190476191,harry_potter_and_the_prisoner_of_azkaban
+Draco Malfoy,25,59,28.49801587301587,0.02326368642695173,2,0.6666666666666666,harry_potter_and_the_chamber_of_secrets
+Severus Snape,13,24,17.11354062604063,0.02309519652637062,2,0.6,harry_potter_and_the_prisoner_of_azkaban
+Barty Crouch Sr.,22,51,18.43769841269842,0.02248499806426636,3,0.6612903225806451,harry_potter_and_the_goblet_of_fire
+Remus Lupin,7,7,25.04880952380953,0.02130000809847749,3,0.5157894736842106,harry_potter_and_the_deathly_hallows_part_2
+Sirius Black,23,39,40.11320346320345,0.02121269352892832,2,0.6138613861386139,harry_potter_and_the_order_of_the_phoenix
+Argus Filch,13,16,15.59201215451216,0.02104185176047525,2,0.6,harry_potter_and_the_prisoner_of_azkaban
+Neville Longbottom,18,32,25.67698412698413,0.02096080336896664,2,0.6097560975609756,harry_potter_and_the_chamber_of_secrets
+Neville Longbottom,29,44,38.91789321789324,0.0205805886926987,2,0.6526315789473685,harry_potter_and_the_order_of_the_phoenix
+Draco Malfoy,18,26,13.19047619047619,0.01876312402628192,3,0.6440677966101694,harry_potter_and_the_half-blood_prince
+Draco Malfoy,15,37,13.65057026307026,0.01842182221736878,2,0.6190476190476191,harry_potter_and_the_prisoner_of_azkaban
+Rubeus Hagrid,19,46,22.52522755022755,0.01838794085732861,2,0.6172839506172839,harry_potter_and_the_chamber_of_secrets
+Fenrir Greyback,11,12,12.83015873015873,0.01825058140847614,2,0.5846153846153846,harry_potter_and_the_half-blood_prince
+Neville Longbottom,23,52,21.21713564213564,0.01804178200861874,2,0.6533333333333333,harry_potter_and_the_philosophers_stone
+Corban Yaxley,20,21,27.39494496570396,0.01778892530240517,2,0.6086956521739131,harry_potter_and_the_deathly_hallows_part_1
+Albus Dumbledore,21,49,20.4498667998668,0.0166937688162178,2,0.6329113924050633,harry_potter_and_the_chamber_of_secrets
+Voldemort,19,22,29.26673881673881,0.01547685817913211,2,0.5904761904761905,harry_potter_and_the_order_of_the_phoenix
+Students,24,56,18.66267343767344,0.01523483545932526,2,0.6578947368421053,harry_potter_and_the_chamber_of_secrets
+Bellatrix Lestrange,15,24,17.57460317460318,0.01494439045459454,3,0.5632183908045977,harry_potter_and_the_deathly_hallows_part_2
+Seamus Finnigan,15,20,18.13661616161616,0.01480540094825809,2,0.5882352941176471,harry_potter_and_the_chamber_of_secrets
+Boy,21,34,17.22113997113997,0.0146438265060714,2,0.6363636363636364,harry_potter_and_the_philosophers_stone
+Bellatrix Lestrange,19,25,21.83048559053806,0.01417563999385589,2,0.6021505376344086,harry_potter_and_the_deathly_hallows_part_1
+Peter Pettigrew,19,25,21.83048559053806,0.01417563999385589,2,0.6021505376344086,harry_potter_and_the_deathly_hallows_part_1
+Draco Malfoy,21,42,16.04650072150072,0.0136449836067183,2,0.6363636363636364,harry_potter_and_the_philosophers_stone
+Woman,20,25,20.73925784360567,0.01346705054779589,2,0.6086956521739131,harry_potter_and_the_deathly_hallows_part_1
+Luna Lovegood,17,29,9.105555555555554,0.01295242611032085,3,0.6333333333333333,harry_potter_and_the_half-blood_prince
+Seamus Finnigan,20,37,15.06511544011544,0.01281047231302333,2,0.6282051282051282,harry_potter_and_the_philosophers_stone
+Remus Lupin,25,37,19.49702584293101,0.01266040639151365,2,0.6436781609195402,harry_potter_and_the_deathly_hallows_part_1
+Kingsley Shacklebolt,25,37,19.49702584293101,0.01266040639151365,2,0.6436781609195402,harry_potter_and_the_deathly_hallows_part_1
+Minerva McGonagall,22,53,14.63142135642136,0.01244168482688891,2,0.6447368421052632,harry_potter_and_the_philosophers_stone
+Gang thug,18,27,10.07063492063492,0.01228126209833527,3,0.6307692307692307,harry_potter_and_the_goblet_of_fire
+Quirinus Quirrell,16,25,14.40880230880231,0.01225238291564822,2,0.5975609756097561,harry_potter_and_the_philosophers_stone
+Lily Potter,7,7,14.33896103896104,0.01219299408074918,3,0.5157894736842106,harry_potter_and_the_deathly_hallows_part_2
+Ginny Weasley,26,35,22.03376623376623,0.01165191233937929,2,0.6326530612244898,harry_potter_and_the_order_of_the_phoenix
+Remus Lupin,16,26,21.52777777777778,0.01138433515482696,2,0.5740740740740741,harry_potter_and_the_order_of_the_phoenix
+Bellatrix Lestrange,7,9,7.946428571428572,0.01130359682991262,3,0.5428571428571428,harry_potter_and_the_half-blood_prince
+Luna Lovegood,18,26,17.02472527472527,0.01105501641215927,2,0.5957446808510638,harry_potter_and_the_deathly_hallows_part_1
+Minerva McGonagall,16,31,20.33181818181818,0.01075188692851305,2,0.5740740740740741,harry_potter_and_the_order_of_the_phoenix
+Peter Pettigrew,6,9,8.748412698412698,0.01066879597367402,2,0.5394736842105263,harry_potter_and_the_goblet_of_fire
+Minerva McGonagall,18,37,12.99603174603174,0.01060900550696469,2,0.6097560975609756,harry_potter_and_the_chamber_of_secrets
+Lucius Malfoy,17,19,14.75340225720473,0.009580131335847225,2,0.5894736842105263,harry_potter_and_the_deathly_hallows_part_1
+Rolanda Hooch,20,29,11.10840548340548,0.009445923030106704,2,0.6282051282051282,harry_potter_and_the_philosophers_stone
+Neville Longbottom,15,22,6.532539682539683,0.009292375081848768,3,0.6129032258064516,harry_potter_and_the_half-blood_prince
+Lavender Brown,13,28,6.399999999999999,0.00910384068278805,3,0.59375,harry_potter_and_the_half-blood_prince
+Garrick Ollivander,21,24,13.92142857142858,0.00903988868274583,2,0.6153846153846154,harry_potter_and_the_deathly_hallows_part_1
+Girl,19,35,10.3036075036075,0.008761571006468965,2,0.620253164556962,harry_potter_and_the_philosophers_stone
+Percy Weasley,16,20,10.23189033189033,0.008352563536237007,2,0.5952380952380952,harry_potter_and_the_chamber_of_secrets
+Fred Weasley,24,33,14.70050505050505,0.007773931808833978,2,0.62,harry_potter_and_the_order_of_the_phoenix
+George Weasley,24,33,14.70050505050505,0.007773931808833978,2,0.62,harry_potter_and_the_order_of_the_phoenix
+Minerva McGonagall,13,18,6.305555555555554,0.007689701897018969,3,0.5857142857142857,harry_potter_and_the_goblet_of_fire
+Seamus Finnigan,14,22,8.719047619047618,0.007414156138645934,3,0.5764705882352941,harry_potter_and_the_deathly_hallows_part_2
+Neville Longbottom,13,22,5.853571428571428,0.007138501742160278,2,0.5942028985507246,harry_potter_and_the_goblet_of_fire
+Albus Dumbledore,12,23,13.46111111111111,0.007118514601327929,2,0.5535714285714286,harry_potter_and_the_order_of_the_phoenix
+Alastor Moody,19,24,10.8520333177567,0.007046774881660197,2,0.6021505376344086,harry_potter_and_the_deathly_hallows_part_1
+Minerva McGonagall,12,21,4.929365079365079,0.007011899117162274,2,0.59375,harry_potter_and_the_half-blood_prince
+Susan Bones,19,20,12.80126262626263,0.006769573044031004,2,0.5904761904761905,harry_potter_and_the_order_of_the_phoenix
+Lucius Malfoy,9,9,5.550865800865801,0.006769348537641221,2,0.5616438356164384,harry_potter_and_the_goblet_of_fire
+Skinny kid,13,14,5.5,0.006707317073170732,3,0.5694444444444444,harry_potter_and_the_goblet_of_fire
+Igor Karkaroff,15,25,5.014682539682539,0.006115466511807974,3,0.5942028985507246,harry_potter_and_the_goblet_of_fire
+Station guard,9,13,4.424242424242424,0.005970637549584917,3,0.5571428571428572,harry_potter_and_the_prisoner_of_azkaban
+Cormac McLaggen,14,20,4.165873015873016,0.005925850662692769,3,0.6031746031746031,harry_potter_and_the_half-blood_prince
+Fred Weasley,12,15,6.869047619047619,0.005607385811467444,3,0.5555555555555556,harry_potter_and_the_chamber_of_secrets
+Rubeus Hagrid,21,33,8.508784054942227,0.005525184451261186,2,0.6153846153846154,harry_potter_and_the_deathly_hallows_part_1
+Albus Dumbledore,17,36,6.468686868686866,0.005500584072012642,2,0.6049382716049383,harry_potter_and_the_philosophers_stone
+Ginny Weasley,14,20,6.586255411255411,0.005376535029596253,2,0.5813953488372093,harry_potter_and_the_chamber_of_secrets
+Arthur Weasley,14,18,10.07943722943723,0.00533021535136818,2,0.5636363636363636,harry_potter_and_the_order_of_the_phoenix
+Cornelius Fudge,14,20,9.899242424242424,0.005234924602983831,2,0.5636363636363636,harry_potter_and_the_order_of_the_phoenix
+Ghosts,12,13,7.860275432338775,0.005104074956064139,3,0.5490196078431373,harry_potter_and_the_deathly_hallows_part_1
+Lee Jordan,21,25,9.632539682539683,0.005093886664484232,2,0.6019417475728155,harry_potter_and_the_order_of_the_phoenix
+Angelina Johnson,21,34,9.632539682539683,0.005093886664484232,2,0.6019417475728155,harry_potter_and_the_order_of_the_phoenix
+George Weasley,13,22,5.665512265512265,0.004817612470673695,2,0.5764705882352941,harry_potter_and_the_philosophers_stone
+Fred Weasley,13,19,5.665512265512265,0.004817612470673695,2,0.5764705882352941,harry_potter_and_the_philosophers_stone
+Lucius Malfoy,14,18,5.866341991341994,0.004788850605177137,2,0.5813953488372093,harry_potter_and_the_chamber_of_secrets
+Arthur Weasley,14,24,5.654437229437229,0.004615867126071207,2,0.5813953488372093,harry_potter_and_the_chamber_of_secrets
+Molly Weasley,14,24,5.654437229437229,0.004615867126071207,2,0.5813953488372093,harry_potter_and_the_chamber_of_secrets
+Filius Flitwick,13,16,3.209920634920634,0.004566032197611144,3,0.5846153846153846,harry_potter_and_the_half-blood_prince
+Albus Dumbledore,4,4,5.261580086580083,0.004474132726683744,3,0.49,harry_potter_and_the_deathly_hallows_part_2
+Seamus Finnigan,11,16,3.266666666666666,0.004408457040035987,3,0.5735294117647058,harry_potter_and_the_prisoner_of_azkaban
+George Weasley,11,21,3.080765068265068,0.004157577689966354,2,0.582089552238806,harry_potter_and_the_prisoner_of_azkaban
+Fred Weasley,11,21,3.080765068265068,0.004157577689966354,2,0.582089552238806,harry_potter_and_the_prisoner_of_azkaban
+Arthur Weasley,12,24,3.288961038961039,0.00401092809629395,3,0.5774647887323944,harry_potter_and_the_goblet_of_fire
+Minerva McGonagall,11,15,2.851190476190476,0.003847760426707795,2,0.582089552238806,harry_potter_and_the_prisoner_of_azkaban
+Mundungus Fletcher,17,20,5.9,0.003831168831168831,3,0.5714285714285714,harry_potter_and_the_deathly_hallows_part_1
+Luna Lovegood,15,25,7.142099567099567,0.003776890305182214,2,0.5688073394495413,harry_potter_and_the_order_of_the_phoenix
+Severus Snape,15,31,4.617832167832168,0.003769658912516055,2,0.5882352941176471,harry_potter_and_the_chamber_of_secrets
+Fred Weasley,21,36,5.781006306911477,0.003753900199293167,2,0.6153846153846154,harry_potter_and_the_deathly_hallows_part_1
+George Weasley,21,36,5.781006306911477,0.003753900199293167,2,0.6153846153846154,harry_potter_and_the_deathly_hallows_part_1
+Lucius Malfoy,16,20,6.972691197691198,0.003687303647642093,2,0.5740740740740741,harry_potter_and_the_order_of_the_phoenix
+Lee Jordan,15,22,4.297222222222222,0.003654100529100529,2,0.5903614457831325,harry_potter_and_the_philosophers_stone
+Tom Riddle,3,5,2.504761904761905,0.0035629614576983,3,0.4470588235294118,harry_potter_and_the_half-blood_prince
+Rubeus Hagrid,11,27,2.611904761904762,0.003524837735364052,2,0.582089552238806,harry_potter_and_the_prisoner_of_azkaban
+Percy Weasley,14,24,3.972222222222222,0.003377739984882842,2,0.5833333333333334,harry_potter_and_the_philosophers_stone
+Molly Weasley,8,10,2.285714285714286,0.003251371672424304,3,0.5352112676056338,harry_potter_and_the_half-blood_prince
+Lily Potter,9,10,5.933333333333334,0.003137669663317469,2,0.5391304347826087,harry_potter_and_the_order_of_the_phoenix
+Lucius Malfoy,9,10,3.643722943722943,0.003098403863709986,3,0.5384615384615384,harry_potter_and_the_deathly_hallows_part_2
+Argus Filch,14,19,2.095238095238095,0.002980424033055612,3,0.59375,harry_potter_and_the_half-blood_prince
+Seamus Finnigan,17,34,2.222222222222222,0.002710027100271002,3,0.6029411764705882,harry_potter_and_the_goblet_of_fire
+Scabior,13,22,4.061538461538462,0.002637362637362638,2,0.5656565656565656,harry_potter_and_the_deathly_hallows_part_1
+Draco Malfoy,15,19,4.727380952380952,0.002499937045151217,2,0.5688073394495413,harry_potter_and_the_order_of_the_phoenix
+George Weasley,10,13,3.0,0.002448979591836735,3,0.5434782608695652,harry_potter_and_the_chamber_of_secrets
+Colin Creevey,14,18,2.981349206349206,0.002433754454162617,2,0.5813953488372093,harry_potter_and_the_chamber_of_secrets
+Arabella Figg,9,10,4.383333333333333,0.002317997532169928,2,0.5391304347826087,harry_potter_and_the_order_of_the_phoenix
+Goblin,11,12,4.322222222222223,0.002285680709794936,2,0.5486725663716814,harry_potter_and_the_order_of_the_phoenix
+Oliver Wood,12,18,2.799542124542124,0.002285340509830305,2,0.5681818181818182,harry_potter_and_the_chamber_of_secrets
+Blaise Zabini,11,14,1.599206349206349,0.002274831222199643,3,0.5671641791044776,harry_potter_and_the_half-blood_prince
+Other,9,14,1.609523809523809,0.002172096908939014,3,0.5571428571428572,harry_potter_and_the_prisoner_of_azkaban
+Nymphadora Tonks,20,29,3.318149164054336,0.002154642314320998,2,0.6086956521739131,harry_potter_and_the_deathly_hallows_part_1
+Bill Weasley,20,29,3.318149164054336,0.002154642314320998,2,0.6086956521739131,harry_potter_and_the_deathly_hallows_part_1
+Dobby,8,11,2.577380952380953,0.002103984450923227,2,0.5434782608695652,harry_potter_and_the_chamber_of_secrets
+Nearly Headless Nick,14,19,2.486904761904762,0.002030126336248785,2,0.5813953488372093,harry_potter_and_the_chamber_of_secrets
+Rosmerta,10,13,1.501190476190476,0.002025898078529657,2,0.5735294117647058,harry_potter_and_the_prisoner_of_azkaban
+Draco Malfoy,11,12,1.649278499278499,0.00201131524302256,3,0.5694444444444444,harry_potter_and_the_goblet_of_fire
+Severus Snape,13,22,1.96991341991342,0.001675096445504609,2,0.5764705882352941,harry_potter_and_the_philosophers_stone
+Rita Skeeter,7,9,1.333333333333333,0.001626016260162602,3,0.5256410256410257,harry_potter_and_the_goblet_of_fire
+Vernon Dursley,7,11,1.958333333333333,0.001598639455782313,3,0.5263157894736842,harry_potter_and_the_chamber_of_secrets
+Dobby,9,13,2.3375,0.001517857142857143,2,0.5436893203883495,harry_potter_and_the_deathly_hallows_part_1
+Fleur Delacour,13,16,1.166666666666667,0.001422764227642276,3,0.5694444444444444,harry_potter_and_the_goblet_of_fire
+Cornelius Fudge,10,12,1.134523809523809,0.001383565621370499,3,0.5466666666666666,harry_potter_and_the_goblet_of_fire
+Nearly Headless Nick,12,15,1.535714285714286,0.001305879494655005,2,0.5697674418604651,harry_potter_and_the_philosophers_stone
+Grawp,11,14,2.45,0.001295610787942887,2,0.5486725663716814,harry_potter_and_the_order_of_the_phoenix
+Ginny Weasley,8,11,1.0,0.001219512195121951,3,0.5324675324675324,harry_potter_and_the_goblet_of_fire
+Molly Weasley,8,11,0.8999999999999999,0.001214574898785425,3,0.5492957746478874,harry_potter_and_the_prisoner_of_azkaban
+Molly Weasley,9,12,2.25,0.001189846641988366,2,0.5391304347826087,harry_potter_and_the_order_of_the_phoenix
+Serpent of Slitherin,14,21,1.44521312021312,0.001179765812418873,2,0.5813953488372093,harry_potter_and_the_chamber_of_secrets
+Poppy Pomfrey,14,22,1.44521312021312,0.001179765812418873,2,0.5813953488372093,harry_potter_and_the_chamber_of_secrets
+Zacharias Smith,16,19,2.200000000000001,0.001163405605499736,2,0.5740740740740741,harry_potter_and_the_order_of_the_phoenix
+The Fat Lady,9,11,0.8345238095238093,0.001126212968318231,2,0.5652173913043478,harry_potter_and_the_prisoner_of_azkaban
+Leanne,9,11,0.7773809523809525,0.001105805053173474,3,0.5507246376811594,harry_potter_and_the_half-blood_prince
+Argus Filch,9,13,1.274242424242424,0.001083539476396619,2,0.550561797752809,harry_potter_and_the_philosophers_stone
+Vernon Dursley,6,7,2.0,0.001057641459545214,2,0.5254237288135594,harry_potter_and_the_order_of_the_phoenix
+Sirius Black,7,22,0.7833333333333332,0.001057130004498425,2,0.5492957746478874,harry_potter_and_the_prisoner_of_azkaban
+Trolley witch,11,15,1.546153846153847,0.001003996003996004,2,0.5544554455445545,harry_potter_and_the_deathly_hallows_part_1
+Kreacher,8,11,1.510416666666667,0.0009807900432900433,2,0.5384615384615384,harry_potter_and_the_deathly_hallows_part_1
+Severus Snape,8,10,1.761111111111111,0.0009313120629884247,2,0.5344827586206896,harry_potter_and_the_order_of_the_phoenix
+Kreacher,14,18,1.652489177489177,0.0008738705327811621,2,0.5636363636363636,harry_potter_and_the_order_of_the_phoenix
+Argus Filch,7,7,1.00523088023088,0.0008547881634616329,3,0.5268817204301075,harry_potter_and_the_deathly_hallows_part_2
+Vincent Crabbe,8,15,0.6102564102564103,0.0008235579085781516,2,0.5571428571428572,harry_potter_and_the_prisoner_of_azkaban
+Ginny Weasley,15,21,1.262857142857142,0.0008200371057513912,2,0.5773195876288659,harry_potter_and_the_deathly_hallows_part_1
+Alastor Moody,8,11,1.5,0.0007932310946589106,2,0.5344827586206896,harry_potter_and_the_order_of_the_phoenix
+Kingsley Shacklebolt,8,11,1.5,0.0007932310946589106,2,0.5344827586206896,harry_potter_and_the_order_of_the_phoenix
+Amos Diggory,9,14,0.5290404040404041,0.0006451712244395171,3,0.5540540540540541,harry_potter_and_the_goblet_of_fire
+Vincent Crabbe,7,10,0.75,0.0006122448979591836,2,0.5376344086021505,harry_potter_and_the_chamber_of_secrets
+Sybill Trelawney,6,8,0.45,0.0006072874493927126,3,0.5342465753424658,harry_potter_and_the_prisoner_of_azkaban
+Severus Snape,6,9,0.4861111111111111,0.0005928184281842818,3,0.5256410256410257,harry_potter_and_the_goblet_of_fire
+Pansy Parkinson,8,9,0.6897546897546898,0.0005865260967301784,3,0.532608695652174,harry_potter_and_the_deathly_hallows_part_2
+Bellatrix Lestrange,10,11,0.7777777777777777,0.000411305012045361,2,0.543859649122807,harry_potter_and_the_order_of_the_phoenix
+Narcissa Malfoy,5,6,0.4523809523809523,0.0003846776805960479,3,0.4757281553398058,harry_potter_and_the_deathly_hallows_part_2
+Rubeus Hagrid,8,13,0.2678571428571428,0.0003810201178622231,3,0.5428571428571428,harry_potter_and_the_half-blood_prince
+Rubeus Hagrid,7,9,0.65,0.0003437334743521946,2,0.5299145299145299,harry_potter_and_the_order_of_the_phoenix
+Draco Malfoy,7,10,0.4,0.0003401360544217687,3,0.5157894736842106,harry_potter_and_the_deathly_hallows_part_2
+All,7,10,0.3666666666666666,0.0003117913832199546,2,0.5384615384615384,harry_potter_and_the_philosophers_stone
+Marcus Flint,10,16,0.3678571428571429,0.0003002915451895044,2,0.5555555555555556,harry_potter_and_the_chamber_of_secrets
+Tom Riddle,5,8,0.25,0.0002040816326530612,3,0.5154639175257731,harry_potter_and_the_chamber_of_secrets
+Viktor Krum,7,9,0.1666666666666667,0.0002032520325203252,3,0.5256410256410257,harry_potter_and_the_goblet_of_fire
+Xenophilius Lovegood,9,14,0.2857142857142857,0.0001855287569573284,3,0.5283018867924528,harry_potter_and_the_deathly_hallows_part_1
+Petunia Dursley,6,12,0.2,0.0001700680272108844,2,0.532608695652174,harry_potter_and_the_philosophers_stone
+Dudley Dursley,6,12,0.2,0.0001700680272108844,2,0.532608695652174,harry_potter_and_the_philosophers_stone
+Vernon Dursley,6,12,0.2,0.0001700680272108844,2,0.532608695652174,harry_potter_and_the_philosophers_stone
+Argus Filch,13,19,0.1678321678321678,0.0001370058512915656,2,0.5747126436781609,harry_potter_and_the_chamber_of_secrets
+Sybill Trelawney,8,10,0.125,0.0001062925170068027,3,0.5268817204301075,harry_potter_and_the_deathly_hallows_part_2
+Moaning Myrtle,4,10,0.0,0.0,2,0.5208333333333334,harry_potter_and_the_chamber_of_secrets
+Snatcher,6,6,0.0,0.0,2,0.5319148936170213,harry_potter_and_the_chamber_of_secrets
+Griselda Marchbanks,11,11,0.0,0.0,2,0.5486725663716814,harry_potter_and_the_order_of_the_phoenix
+Voldemort,2,4,0.0,0.0,2,0.5104166666666666,harry_potter_and_the_philosophers_stone
+Walburga Black,6,6,0.0,0.0,2,0.5254237288135594,harry_potter_and_the_order_of_the_phoenix
+Dudley Dursley,6,9,0.0,0.0,3,0.5208333333333334,harry_potter_and_the_chamber_of_secrets
+Diary,1,1,0.0,0.0,3,0.495049504950495,harry_potter_and_the_chamber_of_secrets
+Magorian,9,9,0.0,0.0,2,0.5391304347826087,harry_potter_and_the_order_of_the_phoenix
+Petunia Dursley,6,9,0.0,0.0,3,0.5208333333333334,harry_potter_and_the_chamber_of_secrets
+Argus Filch,11,11,0.0,0.0,2,0.5486725663716814,harry_potter_and_the_order_of_the_phoenix
+Sybill Trelawney,3,6,0.0,0.0,2,0.512396694214876,harry_potter_and_the_order_of_the_phoenix
+Ghost,9,9,0.0,0.0,2,0.5391304347826087,harry_potter_and_the_order_of_the_phoenix
+Nearly Headless Nick,4,4,0.0,0.0,2,0.5166666666666667,harry_potter_and_the_order_of_the_phoenix
+Nymphadora Tonks,5,5,0.0,0.0,2,0.5210084033613446,harry_potter_and_the_order_of_the_phoenix
+James Potter,5,5,0.0,0.0,2,0.5210084033613446,harry_potter_and_the_order_of_the_phoenix
+Dilys Derwent,5,5,0.0,0.0,2,0.5210084033613446,harry_potter_and_the_order_of_the_phoenix
+Bloody Baron,10,10,0.0,0.0,2,0.5568181818181818,harry_potter_and_the_philosophers_stone
+Perkins,3,3,0.0,0.0,2,0.512396694214876,harry_potter_and_the_order_of_the_phoenix
+Everard,5,5,0.0,0.0,2,0.5210084033613446,harry_potter_and_the_order_of_the_phoenix
+Phineas,5,5,0.0,0.0,2,0.5210084033613446,harry_potter_and_the_order_of_the_phoenix
+Man in a painting,3,3,0.0,0.0,2,0.5157894736842106,harry_potter_and_the_philosophers_stone
+Justin Finch-Fletchley,4,4,0.0,0.0,3,0.5102040816326531,harry_potter_and_the_chamber_of_secrets
+Filius Flitwick,6,6,0.0,0.0,2,0.532608695652174,harry_potter_and_the_philosophers_stone
+Tom,6,6,0.0,0.0,2,0.532608695652174,harry_potter_and_the_philosophers_stone
+Waiter,4,4,0.0,0.0,3,0.5102040816326531,harry_potter_and_the_chamber_of_secrets
+Lee Jordan,8,8,0.0,0.0,2,0.5434782608695652,harry_potter_and_the_chamber_of_secrets
+Stanley Shunpike,4,6,0.0,0.0,3,0.5,harry_potter_and_the_prisoner_of_azkaban
+Students,7,7,0.0,0.0,3,0.5416666666666666,harry_potter_and_the_prisoner_of_azkaban
+Parvati Patil,7,7,0.0,0.0,3,0.5064935064935064,harry_potter_and_the_prisoner_of_azkaban
+All,7,7,0.0,0.0,3,0.5064935064935064,harry_potter_and_the_prisoner_of_azkaban
+Dean Thomas,7,7,0.0,0.0,3,0.5064935064935064,harry_potter_and_the_prisoner_of_azkaban
+Pansy Parkinson,6,6,0.0,0.0,3,0.5342465753424658,harry_potter_and_the_prisoner_of_azkaban
+Petunia Dursley,3,3,0.0,0.0,3,0.4936708860759494,harry_potter_and_the_prisoner_of_azkaban
+Vernon Dursley,3,3,0.0,0.0,3,0.4936708860759494,harry_potter_and_the_prisoner_of_azkaban
+Marge Dursley,3,3,0.0,0.0,3,0.4936708860759494,harry_potter_and_the_prisoner_of_azkaban
+Peter Pettigrew,6,12,0.0,0.0,2,0.5416666666666666,harry_potter_and_the_prisoner_of_azkaban
+Maid,6,6,0.0,0.0,2,0.5416666666666666,harry_potter_and_the_prisoner_of_azkaban
+Percy Weasley,8,8,0.0,0.0,2,0.5571428571428572,harry_potter_and_the_prisoner_of_azkaban
+Ginny Weasley,8,8,0.0,0.0,2,0.5571428571428572,harry_potter_and_the_prisoner_of_azkaban
+Filius Flitwick,3,3,0.0,0.0,3,0.4239130434782609,harry_potter_and_the_prisoner_of_azkaban
+Arthur Weasley,7,7,0.0,0.0,3,0.5416666666666666,harry_potter_and_the_prisoner_of_azkaban
+Pixie,7,7,0.0,0.0,3,0.5416666666666666,harry_potter_and_the_prisoner_of_azkaban
+Goblin,6,6,0.0,0.0,2,0.532608695652174,harry_potter_and_the_philosophers_stone
+Griphook,3,3,0.0,0.0,2,0.5157894736842106,harry_potter_and_the_philosophers_stone
+Snake,10,10,0.0,0.0,2,0.5555555555555556,harry_potter_and_the_chamber_of_secrets
+Merpeople,3,3,0.0,0.0,2,0.5157894736842106,harry_potter_and_the_philosophers_stone
+Shrunken head,12,12,0.0,0.0,2,0.5681818181818182,harry_potter_and_the_chamber_of_secrets
+The Fat Lady,6,6,0.0,0.0,2,0.532608695652174,harry_potter_and_the_philosophers_stone
+Shrunken head,6,6,0.0,0.0,2,0.532608695652174,harry_potter_and_the_philosophers_stone
+Garrick Ollivander,2,2,0.0,0.0,2,0.5104166666666666,harry_potter_and_the_philosophers_stone
+Sorting Hat,7,7,0.0,0.0,2,0.5384615384615384,harry_potter_and_the_philosophers_stone
+Students,11,11,0.0,0.0,2,0.5632183908045977,harry_potter_and_the_philosophers_stone
+Class,11,11,0.0,0.0,2,0.5632183908045977,harry_potter_and_the_philosophers_stone
+Boy 2,11,11,0.0,0.0,2,0.5632183908045977,harry_potter_and_the_philosophers_stone
+Sorting Hat,4,4,0.0,0.0,3,0.5102040816326531,harry_potter_and_the_chamber_of_secrets
+Marcus Flint,9,9,0.0,0.0,2,0.550561797752809,harry_potter_and_the_philosophers_stone
+Gryffindors,9,9,0.0,0.0,2,0.550561797752809,harry_potter_and_the_philosophers_stone
+Oliver Wood,9,10,0.0,0.0,2,0.550561797752809,harry_potter_and_the_philosophers_stone
+Firenze,6,6,0.0,0.0,2,0.532608695652174,harry_potter_and_the_philosophers_stone
+Woman,3,3,0.0,0.0,2,0.5157894736842106,harry_potter_and_the_philosophers_stone
+Old man,7,7,0.0,0.0,2,0.5384615384615384,harry_potter_and_the_philosophers_stone
+Molly Weasley,7,7,0.0,0.0,2,0.5384615384615384,harry_potter_and_the_philosophers_stone
+Ginny Weasley,7,7,0.0,0.0,2,0.5384615384615384,harry_potter_and_the_philosophers_stone
+Crowd,9,9,0.0,0.0,2,0.550561797752809,harry_potter_and_the_philosophers_stone
+Student,5,5,0.0,0.0,2,0.5268817204301075,harry_potter_and_the_philosophers_stone
+Students,10,10,0.0,0.0,2,0.543859649122807,harry_potter_and_the_order_of_the_phoenix
+Aberforth Dumbledore,3,3,0.0,0.0,3,0.4851485148514851,harry_potter_and_the_deathly_hallows_part_2
+Dobby,10,10,0.0,0.0,2,0.543859649122807,harry_potter_and_the_order_of_the_phoenix
+Padma Patil,6,10,0.0,0.0,3,0.5189873417721519,harry_potter_and_the_goblet_of_fire
+Professors,7,7,0.0,0.0,3,0.5051546391752577,harry_potter_and_the_deathly_hallows_part_2
+Filius Flitwick,7,7,0.0,0.0,3,0.5051546391752577,harry_potter_and_the_deathly_hallows_part_2
+Merpeople,6,6,0.0,0.0,3,0.5,harry_potter_and_the_deathly_hallows_part_2
+Bogrod,6,6,0.0,0.0,3,0.5,harry_potter_and_the_deathly_hallows_part_2
+Sirius Black,4,4,0.0,0.0,3,0.5,harry_potter_and_the_deathly_hallows_part_2
+James Potter,4,4,0.0,0.0,3,0.5,harry_potter_and_the_deathly_hallows_part_2
+Albus Potter,2,2,0.0,0.0,3,0.4757281553398058,harry_potter_and_the_deathly_hallows_part_2
+Nigel Wolpert,10,10,0.0,0.0,3,0.550561797752809,harry_potter_and_the_deathly_hallows_part_2
+Cho Chang,10,10,0.0,0.0,3,0.550561797752809,harry_potter_and_the_deathly_hallows_part_2
+Alecto Carrow,10,10,0.0,0.0,3,0.550561797752809,harry_potter_and_the_deathly_hallows_part_2
+Centaur,3,3,0.0,0.0,3,0.3867924528301887,harry_potter_and_the_goblet_of_fire
+Molly Weasley,14,14,0.0,0.0,2,0.5714285714285714,harry_potter_and_the_deathly_hallows_part_1
+Lily Potter,5,5,0.0,0.0,3,0.509090909090909,harry_potter_and_the_deathly_hallows_part_1
+Rubeus Hagrid,13,25,0.0,0.0,3,0.5694444444444444,harry_potter_and_the_goblet_of_fire
+Neville Longbottom,6,6,0.0,0.0,2,0.5283018867924528,harry_potter_and_the_deathly_hallows_part_1
+Cormac McLaggen,6,6,0.0,0.0,2,0.5283018867924528,harry_potter_and_the_deathly_hallows_part_1
+Griphook,6,6,0.0,0.0,2,0.5283018867924528,harry_potter_and_the_deathly_hallows_part_1
+Filius Flitwick,13,13,0.0,0.0,3,0.5694444444444444,harry_potter_and_the_goblet_of_fire
+Olympe Maxime,13,20,0.0,0.0,3,0.5694444444444444,harry_potter_and_the_goblet_of_fire
+Charity Burbage,9,9,0.0,0.0,3,0.4786324786324787,harry_potter_and_the_deathly_hallows_part_1
+Sirius Black,3,3,0.0,0.0,3,0.5,harry_potter_and_the_goblet_of_fire
+Waitress,4,4,0.0,0.0,3,0.5061728395061729,harry_potter_and_the_goblet_of_fire
+Cho Chang,4,5,0.0,0.0,3,0.5061728395061729,harry_potter_and_the_goblet_of_fire
+James Potter,3,3,0.0,0.0,3,0.41,harry_potter_and_the_goblet_of_fire
+Lily Potter,3,3,0.0,0.0,3,0.41,harry_potter_and_the_goblet_of_fire
+Pomona Sprout,7,7,0.0,0.0,3,0.5051546391752577,harry_potter_and_the_deathly_hallows_part_2
+Sorting Hat,3,3,0.0,0.0,3,0.4188034188034188,harry_potter_and_the_deathly_hallows_part_2
+Arthur Weasley,3,3,0.0,0.0,3,0.4188034188034188,harry_potter_and_the_deathly_hallows_part_2
+Bill Weasley,7,9,0.0,0.0,3,0.5051546391752577,harry_potter_and_the_deathly_hallows_part_2
+Draco Malfoy,10,10,0.0,0.0,2,0.5490196078431373,harry_potter_and_the_deathly_hallows_part_1
+Corban Yaxley,2,2,0.0,0.0,3,0.49,harry_potter_and_the_deathly_hallows_part_2
+Petunia Dursley,15,15,0.0,0.0,3,0.56,harry_potter_and_the_deathly_hallows_part_1
+Griphook,6,12,0.0,0.0,3,0.5,harry_potter_and_the_deathly_hallows_part_2
+Fleur Delacour,15,15,0.0,0.0,3,0.56,harry_potter_and_the_deathly_hallows_part_1
+Oliver Wood,4,4,0.0,0.0,3,0.5051546391752577,harry_potter_and_the_deathly_hallows_part_2
+Gang thug,1,1,0.0,0.0,4,0.3828125,harry_potter_and_the_deathly_hallows_part_2
+Helena Ravenclaw,1,1,0.0,0.0,3,0.4711538461538461,harry_potter_and_the_deathly_hallows_part_2
+Molly Weasley,4,4,0.0,0.0,3,0.49,harry_potter_and_the_deathly_hallows_part_2
+Vernon Dursley,15,15,0.0,0.0,3,0.56,harry_potter_and_the_deathly_hallows_part_1
+Fleur Delacour,7,7,0.0,0.0,3,0.5051546391752577,harry_potter_and_the_deathly_hallows_part_2
+Dudley Dursley,15,15,0.0,0.0,3,0.56,harry_potter_and_the_deathly_hallows_part_1
+Gregory Goyle,5,5,0.0,0.0,3,0.5051546391752577,harry_potter_and_the_deathly_hallows_part_2
+Garrick Ollivander,7,7,0.0,0.0,3,0.5051546391752577,harry_potter_and_the_deathly_hallows_part_2
+Pius Thicknesse,4,4,0.0,0.0,3,0.5,harry_potter_and_the_deathly_hallows_part_2
+Fred Weasley,4,4,0.0,0.0,3,0.5,harry_potter_and_the_deathly_hallows_part_2
+Rufus Scrimgeour,7,7,0.0,0.0,3,0.5185185185185185,harry_potter_and_the_deathly_hallows_part_1
+Elphias Doge,8,8,0.0,0.0,3,0.5233644859813084,harry_potter_and_the_deathly_hallows_part_1
+Muriel,8,8,0.0,0.0,3,0.5233644859813084,harry_potter_and_the_deathly_hallows_part_1
+Kingsley Shacklebolt,3,3,0.0,0.0,3,0.3828125,harry_potter_and_the_deathly_hallows_part_2
+Nymphadora Tonks,3,3,0.0,0.0,3,0.3828125,harry_potter_and_the_deathly_hallows_part_2
+Gellert Grindelwald,5,5,0.0,0.0,2,0.5233644859813084,harry_potter_and_the_deathly_hallows_part_1
+Petunia Dursley,3,3,0.0,0.0,4,0.3798449612403101,harry_potter_and_the_deathly_hallows_part_2
+Ghosts,3,3,0.0,0.0,3,0.4851485148514851,harry_potter_and_the_deathly_hallows_part_2
+Parvati Patil,6,10,0.0,0.0,3,0.5189873417721519,harry_potter_and_the_goblet_of_fire
+Nigel Wolpert,4,4,0.0,0.0,3,0.5061728395061729,harry_potter_and_the_goblet_of_fire
+Rolanda Hooch,10,10,0.0,0.0,2,0.543859649122807,harry_potter_and_the_order_of_the_phoenix
+Severus Snape,9,9,0.0,0.0,3,0.4786324786324787,harry_potter_and_the_deathly_hallows_part_1
+Students,2,2,0.0,0.0,3,0.4871794871794872,harry_potter_and_the_half-blood_prince
+Seamus Finnigan,6,6,0.0,0.0,3,0.5135135135135135,harry_potter_and_the_half-blood_prince
+Mrs. Cole,2,2,0.0,0.0,3,0.3838383838383838,harry_potter_and_the_half-blood_prince
+Goblin,3,3,0.0,0.0,3,0.5050505050505051,harry_potter_and_the_chamber_of_secrets
+Gregory Goyle,4,4,0.0,0.0,2,0.5208333333333334,harry_potter_and_the_chamber_of_secrets
+Cornelius Fudge,5,5,0.0,0.0,3,0.5154639175257731,harry_potter_and_the_chamber_of_secrets
+All,4,4,0.0,0.0,3,0.4545454545454545,harry_potter_and_the_chamber_of_secrets
+Pomona Sprout,4,4,0.0,0.0,3,0.4545454545454545,harry_potter_and_the_chamber_of_secrets
+Dean Thomas,2,2,0.0,0.0,2,0.5081967213114754,harry_potter_and_the_order_of_the_phoenix
+Seamus Finnigan,2,2,0.0,0.0,2,0.5081967213114754,harry_potter_and_the_order_of_the_phoenix
+Dean Thomas,10,10,0.0,0.0,2,0.5555555555555556,harry_potter_and_the_chamber_of_secrets
+Photographer,10,10,0.0,0.0,2,0.5555555555555556,harry_potter_and_the_chamber_of_secrets
+Bathilda Bagshot,2,2,0.0,0.0,3,0.495575221238938,harry_potter_and_the_deathly_hallows_part_1
+Ghosts,9,9,0.0,0.0,2,0.5391304347826087,harry_potter_and_the_order_of_the_phoenix
+Bane,5,5,0.0,0.0,2,0.5210084033613446,harry_potter_and_the_order_of_the_phoenix
+Petunia Dursley,2,2,0.0,0.0,2,0.5081967213114754,harry_potter_and_the_order_of_the_phoenix
+Dudley Dursley,5,5,0.0,0.0,2,0.5210084033613446,harry_potter_and_the_order_of_the_phoenix
+Howler,5,5,0.0,0.0,2,0.5210084033613446,harry_potter_and_the_order_of_the_phoenix
+Aragog,2,4,0.0,0.0,3,0.5,harry_potter_and_the_chamber_of_secrets
+Percy Weasley,4,4,0.0,0.0,2,0.5166666666666667,harry_potter_and_the_order_of_the_phoenix
+Lavender Brown,15,15,0.0,0.0,2,0.5688073394495413,harry_potter_and_the_order_of_the_phoenix
+Michael Corner,15,15,0.0,0.0,2,0.5688073394495413,harry_potter_and_the_order_of_the_phoenix
+Cho Chang,15,15,0.0,0.0,2,0.5688073394495413,harry_potter_and_the_order_of_the_phoenix
+Ernest Macmillan,15,15,0.0,0.0,2,0.5688073394495413,harry_potter_and_the_order_of_the_phoenix
+Justin Finch-Fletchley,15,15,0.0,0.0,2,0.5688073394495413,harry_potter_and_the_order_of_the_phoenix
+Dean Thomas,1,1,0.0,0.0,4,0.4,harry_potter_and_the_half-blood_prince
+Wizard,1,1,0.0,0.0,3,0.4810126582278481,harry_potter_and_the_half-blood_prince
+Witch,10,10,0.0,0.0,3,0.5588235294117647,harry_potter_and_the_half-blood_prince
+Dolores Umbridge,12,12,0.0,0.0,2,0.56,harry_potter_and_the_deathly_hallows_part_1
+Dean Thomas,12,12,0.0,0.0,3,0.5616438356164384,harry_potter_and_the_goblet_of_fire
+Moaning Myrtle,2,2,0.0,0.0,3,0.4939759036144578,harry_potter_and_the_goblet_of_fire
+Narcissa Malfoy,9,9,0.0,0.0,3,0.4786324786324787,harry_potter_and_the_deathly_hallows_part_1
+Fenrir Greyback,5,5,0.0,0.0,3,0.509090909090909,harry_potter_and_the_deathly_hallows_part_1
+Mrs. Granger,4,4,0.0,0.0,3,0.5,harry_potter_and_the_deathly_hallows_part_1
+Mr. Granger,4,4,0.0,0.0,3,0.5,harry_potter_and_the_deathly_hallows_part_1
+Mykew Gregorovitch,4,4,0.0,0.0,2,0.5185185185185185,harry_potter_and_the_deathly_hallows_part_1
+Goblin,12,12,0.0,0.0,2,0.56,harry_potter_and_the_deathly_hallows_part_1
+Katie Bell,5,8,0.0,0.0,3,0.5135135135135135,harry_potter_and_the_half-blood_prince
+George Weasley,6,6,0.0,0.0,3,0.5205479452054794,harry_potter_and_the_half-blood_prince
+Fred Weasley,6,6,0.0,0.0,3,0.5205479452054794,harry_potter_and_the_half-blood_prince
+Percy Weasley,12,12,0.0,0.0,2,0.56,harry_potter_and_the_deathly_hallows_part_1
+Eldred Worple,10,10,0.0,0.0,3,0.5588235294117647,harry_potter_and_the_half-blood_prince
+Death Eater,7,7,0.0,0.0,3,0.5277777777777778,harry_potter_and_the_half-blood_prince
+Man,12,12,0.0,0.0,2,0.56,harry_potter_and_the_deathly_hallows_part_1
+Guard,12,12,0.0,0.0,2,0.56,harry_potter_and_the_deathly_hallows_part_1
+Mary Cattermole,12,12,0.0,0.0,2,0.56,harry_potter_and_the_deathly_hallows_part_1
+Marcus Belby,6,6,0.0,0.0,3,0.5277777777777778,harry_potter_and_the_half-blood_prince
+Whomping Willow,2,2,0.0,0.0,3,0.5,harry_potter_and_the_chamber_of_secrets
+Narcissa Malfoy,2,2,0.0,0.0,4,0.4130434782608696,harry_potter_and_the_half-blood_prince
+Pansy Parkinson,9,9,0.0,0.0,3,0.5428571428571428,harry_potter_and_the_half-blood_prince
+Arthur Weasley,6,6,0.0,0.0,3,0.5205479452054794,harry_potter_and_the_half-blood_prince
+Remus Lupin,6,6,0.0,0.0,3,0.5205479452054794,harry_potter_and_the_half-blood_prince
+Nymphadora Tonks,6,6,0.0,0.0,3,0.5205479452054794,harry_potter_and_the_half-blood_prince
+Tom,4,4,0.0,0.0,3,0.5,harry_potter_and_the_prisoner_of_azkaban
